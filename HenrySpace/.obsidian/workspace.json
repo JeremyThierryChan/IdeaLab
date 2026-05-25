@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "2f8915d41869b537",
+    "type": "split",
+    "children": [
+      {
+        "id": "c556bc1febcea898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "915aca0d30d888e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/engineering/2022-11-26-读取RTKlib生成的pos文件，将XYZ转化为ENU，并绘制RMS柱状图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2022-11-26-读取RTKlib生成的pos文件，将XYZ转化为ENU，并绘制RMS柱状图"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6eaca0dd528520ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c84bb9e4777787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18bcab193305c723",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a3870eaf2c80e368",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5454b169b7350ee7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39ffb3b595f02da7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2526b332b528d91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca422e972c51f18d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/engineering/2022-11-26-读取RTKlib生成的pos文件，将XYZ转化为ENU，并绘制RMS柱状图.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2022-11-26-读取RTKlib生成的pos文件，将XYZ转化为ENU，并绘制RMS柱状图 的反向链接列表"
+            }
+          },
+          {
+            "id": "2dab93123e632501",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/engineering/2022-11-26-读取RTKlib生成的pos文件，将XYZ转化为ENU，并绘制RMS柱状图.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2022-11-26-读取RTKlib生成的pos文件，将XYZ转化为ENU，并绘制RMS柱状图 的出链列表"
+            }
+          },
+          {
+            "id": "3c36055a4c016401",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6ed86c7b6a7822e5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "33aa9549fd93349d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/engineering/2022-11-26-读取RTKlib生成的pos文件，将XYZ转化为ENU，并绘制RMS柱状图.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2022-11-26-读取RTKlib生成的pos文件，将XYZ转化为ENU，并绘制RMS柱状图 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "915aca0d30d888e9",
+  "lastOpenFiles": [
+    "notes/engineering/2022-11-28-Matlab实验之声纳图像处理.md",
+    "notes/engineering/2022-11-28-Java课程设计之推箱子.md",
+    "notes/engineering/2022-11-26-读取RTKlib生成的pos文件，将XYZ转化为ENU，并绘制RMS柱状图.md",
+    "notes/engineering/未命名.md",
+    "notes/engineering/2026-05-10-基于遗传算法的二维磁信标定位：从GA到QGA的改进与实现.md",
+    "notes/engineering/2026-04-13-从磁偶极子建模到定位反演：一个完整 MATLAB 仿真系统解析.md",
+    "notes/engineering/2026-04-12-从SPP到组合导航：一个面向科研的GNSS Python代码库实践.md",
+    "notes/engineering/2025-10-23-基于PRIDE PPP-AR的低轨卫星运动学定轨脚本.md",
+    "notes/engineering/2025-05-13-基于机器学习的卫星钟差预测方法研究HPSO-BP.md",
+    "notes/engineering/2025-05-13-GNSS数据自动化下载系统的设计与实现.md",
+    "notes/engineering/2025-05-11-GNSS工具箱--GPS位置计算与精密星历比较.md",
+    "notes/engineering/2025-01-16-基于高光谱数据的叶片水分估测方法研究 【Matlab Python Origin】.md",
+    "notes/engineering/2024-10-16-基于星载GNSS的低轨卫星精密定轨研究论文整理笔记.md",
+    "notes/engineering/2023-07-16-基于随机森林算法的森林生物量反演【Matlab Python】.md",
+    "notes/engineering/2023-05-29-【Python】海洋潮汐与水位控制 回归分析法计算验潮站长期平均海面.md",
+    "notes/engineering/2023-01-16-【Python】伪距单点定位.md",
+    "notes/engineering/2022-12-16-【Matlab】海底声学模拟（Bellhop）以及滤波器的设计.md",
+    "notes/engineering/2022-12-02-GPS网的基线计算以及平差处理（使用Python绘制误差椭圆，C++处理数据并输出Qxx矩阵）.md",
+    "notes/engineering/2022-11-30-【python】读取卫星星历（RENIX 3.04）进行卫星位置的计算（北斗卫星专题）.md",
+    "notes/engineering/2022-11-30-【Java】读取单颗北斗卫星导航星历文件进行卫星位置计算（RINEX3.04）.md",
+    "notes/engineering/2025-10-22-一种基于STL-LSTM混合模型的低轨卫星钟差短期预报方法.md",
+    "notes/engineering/2025-01-16-数字艺术类专业人才供需数据获取和分析研究.md",
+    "notes/engineering/2023-01-16-使用GMT绘制星下点图.md",
+    "notes/engineering",
+    "未命名.base"
+  ]
+}
